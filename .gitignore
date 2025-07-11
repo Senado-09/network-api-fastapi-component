@@ -1,0 +1,61 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+*.egg-info/
+*.egg
+
+# Environments
+.env
+.env.*
+venv/
+.venv/
+ENV/
+env/
+
+# VSCode / IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Byte-compiled / cache / logs
+*.log
+*.sqlite3
+*.db
+*.bak
+*.tmp
+
+# Distribution / packaging
+build/
+dist/
+*.whl
+
+# Pytest / test cache
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Migrations
+alembic.ini
+migrations/
+versions/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Notebooks
+.ipynb_checkpoints/
+
+# MySQL/Postgres dumps
+*.sql
+*.dump
+
+# VS Code Python
+.pyre/
+.mypy_cache/
